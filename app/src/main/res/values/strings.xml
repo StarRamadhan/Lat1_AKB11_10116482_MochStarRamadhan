@@ -1,0 +1,28 @@
+<resources>
+    <!--Nama  : Moch. Star Ramadhan-->
+    <!--Nim   : 10116482-->
+    <!--Kelas : AKB/IF - 11-->
+    <!--Waktu Pengertaan Mulai Tanggal 06/04/2019-->
+    <string name="app_name">Latihan 1 - 10116482</string>
+    <string name="page1txt">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="contentD">Ini Deskripsi</string>
+    <string name="btnMulai">Mulai</string>
+    <string name="btnKode">A1B2C3</string>
+    <string name="btnMasuk">Masuk</string>
+    <string name="btnNext">Selanjutnya</string>
+    <string name="btnBeli">Beli Kode Keluarga Disini</string>
+    <string name="page2txt1">Kode Keluarga</string>
+    <string name="page2txt2">Ketikkan kode keluarga yang Ayah Bunda miliki disini</string>
+    <string name="page2txt3">Dengan menekan tombol masuk berarti Anda menyetujui </string>
+    <string name="page2txt3_1"> Ketentuan Pengguna </string>
+    <string name="page2txt3_2"> dan </string>
+    <string name="page2txt3_3"> Kebijakan Data </string>
+    <string name="page2txt3_4"> kami</string>
+    <string name="page2txt4">Belum punya kode keluarga?</string>
+    <string name="page3txt1">Nama Panggilan Kamu</string>
+    <string name="page3txt2">Umur Kamu</string>
+    <string name="hint1">Contoh : Budi</string>
+    <string name="hint2">Contoh : 12</string>
+    <string name="sayhai">Beres! Sekarang</string>
+    <string name="btnOke">Oke</string>
+</resources>

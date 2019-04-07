@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Nama  : Moch. Star Ramadhan-->
+<!--Nim   : 10116482-->
+<!--Kelas : AKB/IF - 11-->
+<!--Waktu Pengertaan Mulai Tanggal 06/04/2019-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/whitetree">
+
+    <LinearLayout
+        android:id="@+id/idLayout_page2.1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="15">
+        <TextView
+            android:id="@+id/txtNote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="45dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingBottom="5dp"
+            android:textColor="@color/black"
+            android:textSize="27sp"
+            android:fontFamily="@font/nunito_bold"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="vertical"
+        android:background="@color/whitetree">
+
+        <Button
+            android:id="@+id/btn_exit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="85dp"
+            android:layout_marginRight="85dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/rounded_orange_btn"
+            android:textAllCaps="false"
+            android:text="@string/btnOke"
+            android:textSize="16sp"
+            android:fontFamily="sans-serif"
+            android:textStyle="bold" />
+    </LinearLayout>
+</LinearLayout>
